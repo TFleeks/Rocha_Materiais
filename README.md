@@ -4,6 +4,6 @@
 
 ### Tecnologias Utilizadas:
 
-- ** ### HTML, CSS e JavaScript(para os ícones)
+### HTML, CSS e JavaScript(para os ícones)
 
 ![gh](https://github.com/TFleeks/Rocha_Materiais/assets/172528140/933ce79f-2774-4e4d-8167-54e2ff23df49)
